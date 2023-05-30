@@ -8,7 +8,7 @@ printf("Hello ASCII \n");
 
   cout<< (int)	'a' <<endl;
   cout<< int ('a')	<<endl;
-	
+  cout<< int ('A')	<<endl;
 	
 	
 	
