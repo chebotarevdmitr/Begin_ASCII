@@ -3,8 +3,14 @@
  using namespace std;
 
 int main() {
+
+printf("Hello ASCII \n");	
+
+  cout<< (int)	'a' <<endl;
+  cout<< int ('a')	<<endl;
 	
-printf("Hello ASCII ");	
+	
+	
 	
 	system("pause>0");
 }
